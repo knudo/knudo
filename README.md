@@ -40,9 +40,9 @@
   </div>
 
 ### :mailbox: How to reach me<br>
+  [![Linkedin Badge](https://img.shields.io/badge/-contato@afonso.gg-blueviolet?style=flat&logoColor=white)](mailto:contato@afonso.gg)
   [![Linkedin Badge](https://img.shields.io/badge/-afonsoambrosio-blueviolet?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afonsoambrosio/)
   [![Discord Badge](https://img.shields.io/badge/-Canudo%231246-blueviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/252602251049172993)
-  [![Linkedin Badge](https://img.shields.io/badge/-contato@afonso.gg-blueviolet?style=flat&logo=Mail.ru&logoColor=white)](https://www.linkedin.com/in/afonsoambrosio/)
   
   
   
