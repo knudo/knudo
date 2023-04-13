@@ -1,8 +1,10 @@
-# Hello there 👋
+# Hello there👋
 ## My name is Afonso but you can call me Canudo
 
 ### :man_technologist: About me
-  Developer, sysop, soon to be computing engineer. Linux is your friend 🐧
+  - Developer, maker and sysadmin.
+  - Currently studying computing engineering.
+  - Linux is your friend 🐧
 
 ### :hammer_and_wrench: Languages and Tools
   <div>
