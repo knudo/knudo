@@ -1,8 +1,8 @@
 # Hello there 👋
 ## My name is Afonso but you can call me Canudo
 
-### About me
-
+### :man_technologist: About me
+  Developer, sysop, soon to be computing engineer. Linux is your friend 🐧
 
 ### :hammer_and_wrench: Languages and Tools
   <div>
@@ -40,9 +40,9 @@
   </div>
 
 ### :mailbox: How to reach me<br>
-  [![Linkedin Badge](https://img.shields.io/badge/-contato@afonso.gg-blueviolet?style=flat&logoColor=white)](mailto:contato@afonso.gg)
-  [![Linkedin Badge](https://img.shields.io/badge/-afonsoambrosio-blueviolet?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afonsoambrosio/)
-  [![Discord Badge](https://img.shields.io/badge/-Canudo%231246-blueviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/252602251049172993)
+  [![Linkedin Badge](https://img.shields.io/badge/-contato@afonso.gg-blueviolet?style=flat-square&logo=envelope)](mailto:contato@afonso.gg)
+  [![Linkedin Badge](https://img.shields.io/badge/-afonsoambrosio-blueviolet?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afonsoambrosio/)
+  [![Discord Badge](https://img.shields.io/badge/-Canudo%231246-blueviolet?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/252602251049172993)
   
   
   
