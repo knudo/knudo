@@ -166,6 +166,6 @@
   </div>
 
 ### :mailbox: How to reach me<br>
-  [![Linkedin Badge](https://img.shields.io/badge/-contato@afonso.gg-blueviolet?style=flat-square&logo=envelope)](mailto:contato@afonso.gg)
-  [![Discord Badge](https://img.shields.io/badge/-Canudo%231246-blueviolet?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/252602251049172993)
+  [![Linkedin Badge](https://img.shields.io/badge/-contato@afonso.gg-blueviolet?style=flat-square&logo=envelope)](mailto:contato@canudo.dev)
+  [![Discord Badge](https://img.shields.io/badge/-%40cndo-blueviolet?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/252602251049172993)
   
