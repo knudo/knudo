@@ -6,7 +6,7 @@
   - Currently studying computing engineering.
   - Linux is your friend 🐧
 
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Toys that I currently play/have played with
   <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" >
