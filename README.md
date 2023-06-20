@@ -142,6 +142,16 @@
       <source media="(prefers-color-scheme: dark)" >
       <source media="(prefers-color-scheme: light)" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="32" title="MySQL" />
+    </picture>https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg
+    <picture>
+      <source media="(prefers-color-scheme: dark)" >
+      <source media="(prefers-color-scheme: light)" >
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="32" title="Firebase" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" >
+      <source media="(prefers-color-scheme: light)" >
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="32" title="Mongodb" />
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" >
