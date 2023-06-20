@@ -142,7 +142,7 @@
       <source media="(prefers-color-scheme: dark)" >
       <source media="(prefers-color-scheme: light)" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="32" title="MySQL" />
-    </picture>https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg
+    </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" >
       <source media="(prefers-color-scheme: light)" >
