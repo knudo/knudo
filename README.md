@@ -3,7 +3,7 @@
 
 ### :man_technologist: About me
   - Developer, maker and sysadmin.
-  - Currently studying computing engineering.
+  - Currently studying computer engineering.
   - Linux is your friend 🐧
 
 ### :hammer_and_wrench: Toys that I currently play/have played with
