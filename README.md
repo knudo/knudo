@@ -1,9 +1,10 @@
-# Hello there👋
-## My name is Afonso but you can also call me Canudo
+### Hello there👋
 
-### :man_technologist: About me
-  - Developer, IT technician, maker and sysadmin. Currently studying computer engineering.
-  - Linux is your friend! 🐧
+My name is Afonso but you can also call me Canudo
+
+I am a developer, IT technician, maker and sysadmin. Currently studying computer engineering.
+
+Remember: Linux is your friend! 🐧
 
 ### :hammer_and_wrench: Toys that I currently play/have played with
   <div>
