@@ -176,7 +176,6 @@ Remember: Linux is your friend! 🐧
   </div>
 
 ### :mailbox: How to reach me<br>
-  [![Linkedin Badge](https://img.shields.io/badge/-afonsoambrosio-blueviolet?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afonsoambrosio/)
   [![Mail Badge](https://img.shields.io/badge/-contato@canudo.dev-blueviolet?style=flat-square&logo=microsoft-outlook)](mailto:contato@canudo.dev)
   [![Discord Badge](https://img.shields.io/badge/-%40cndo-blueviolet?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/252602251049172993)
   
