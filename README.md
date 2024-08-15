@@ -4,7 +4,7 @@ My name is Afonso but you can also call me Canudo
 
 I am a developer, IT technician, maker and sysadmin. Currently studying computer engineering.
 
-Remember: Linux is your friend! 🐧
+💖 Linux 🐧 💜
 
 ### :hammer_and_wrench: Toys that I currently play/have played with
   <div>
